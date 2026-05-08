@@ -1,0 +1,6 @@
+TICKET_001: My laptop won't turn on after the latest update.
+TICKET_002: I need access to the company's Azure portal for the new project.
+TICKET_003: Urgent: The printer on the 3rd floor is jammed and smoking.
+TICKET_004: Forgotten password for the payroll system.
+TICKET_005: I've been waiting for three days for a password reset. This is ridiculous! I can't do my job!
+TICKET_006: Hi there, just a quick question about when the new monitors might arrive? No rush!

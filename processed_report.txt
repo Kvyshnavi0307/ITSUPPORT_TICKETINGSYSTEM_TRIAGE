@@ -1,0 +1,35 @@
+- ID: TICKET_001
+  - Priority: High
+  - Sentiment: Neutral
+  - Summary: User's laptop is not powering on after an update.
+  - Recommended Action: Guide the user through troubleshooting steps or escalate to hardware support.
+
+- ID: TICKET_002
+  - Priority: Medium
+  - Sentiment: Neutral
+  - Summary: User requests access to the company's Azure portal for a new project.
+  - Recommended Action: Verify user permissions and grant access to the Azure portal.
+
+- ID: TICKET_003
+  - Priority: Critical
+  - Sentiment: Neutral
+  - Summary: The printer on the 3rd floor is jammed and emitting smoke.
+  - Recommended Action: Dispatch a technician immediately to inspect and resolve the issue for safety.
+
+- ID: TICKET_004
+  - Priority: Medium
+  - Sentiment: Neutral
+  - Summary: User has forgotten their password for the payroll system.
+  - Recommended Action: Initiate password reset procedure for the payroll system.
+
+- ID: TICKET_005
+  - Priority: High
+  - Sentiment: Angry
+  - Summary: User frustrated due to a three-day wait for a password reset impacting work.
+  - Recommended Action: Expedite the password reset process and communicate with the user to address the delay.
+
+- ID: TICKET_006
+  - Priority: Low
+  - Sentiment: Positive
+  - Summary: User inquires about the arrival date of new monitors with no urgency.
+  - Recommended Action: Provide the estimated delivery date and assure the user of updates if there are changes.

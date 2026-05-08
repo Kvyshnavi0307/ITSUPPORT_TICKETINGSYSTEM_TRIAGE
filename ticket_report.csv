@@ -1,0 +1,9 @@
+```csv
+Ticket ID,Priority,Sentiment,Summary,Recommended Action
+TICKET_001,High,Negative,Laptop won't turn on after update,Provide steps to troubleshoot laptop and escalate to IT support.
+TICKET_002,Medium,Neutral,Access needed to Azure portal,Verify request with supervisor and grant access to the Azure portal.
+TICKET_003,High,Negative,Printer jammed and smoking on the 3rd floor,Escalate to maintenance team immediately and ensure safety protocols are followed.
+TICKET_004,Medium,Neutral,Forgotten password for payroll system,Initiate password recovery process and assist user.
+TICKET_005,High,Negative,Delayed password reset affecting work for three days,Expedite password reset process and apologize for the delay.
+TICKET_006,Low,Positive,Inquiry about arrival of new monitors,Provide estimated delivery date for the new monitors.
+```
