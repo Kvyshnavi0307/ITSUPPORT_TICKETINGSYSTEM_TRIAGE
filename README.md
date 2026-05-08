@@ -1,4 +1,4 @@
-Project Name: Enterprise IT Service Automation Engine 
+ Enterprise IT Service Automation Engine 
 *** Strategic Triage Automation & Operational Efficiency Framework ***
 
 1. Executive Summary
